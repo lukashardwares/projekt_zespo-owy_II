@@ -1,0 +1,4 @@
+główny plik strony jak zawsze index.html 
+to strona.php
+
+w tej nazwie i z tym rozszerzeniem lepiej nam się pracowało
